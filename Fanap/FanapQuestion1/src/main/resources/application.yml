@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: memory
+app:
+  cachetimeout: 5000
+server:
+  port: 8989

@@ -2,6 +2,6 @@ spring:
   profiles:
     active: memory
 app:
-  cachetimeout: 5000
+  cachetimeout: 7200000
 server:
   port: 8989
